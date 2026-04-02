@@ -20,6 +20,8 @@ I hold my undergraduate study from Hohai University (211,Double First-Class), wi
 
 If everything goes as expected, I will obtain the qualification for direct admission to graduate school this year.I am actively seeking  for **Research Internship, Master's degree or directly pursuing a doctoral degree**.
 
+You can find my CV here:[ZHOUDONG's Curriculum Vitae](../assets/CV.docx)
+
 ---
 
 ## Scientific Research Experience & Competition
