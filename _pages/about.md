@@ -1,9 +1,18 @@
+---
+permalink: /
+title: "Zhou Dong - Homepage"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # About Me
-Hello 👋, I am **Zhou Dong**, a third-year undergraduate student at 🎓 [Hohai University](https://www.hhu.edu.cn/), majoring in Communication Engineering, with research focused on **Computer Vision, 3D Generation, and Channel Knowledge Map**.
+Hello 👋, I am **Zhou Dong**, a third-year undergraduate student at <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/8f36759d-254b-49a4-ae35-49660c0bddfb" /> [Hohai University](https://www.hhu.edu.cn/), majoring in Communication Engineering, with research focused on **Computer Vision, 3D Generation, and Channel Knowledge Map**.
 
 Research Interest ❤: **Computer Vision, 3D Generation, Channel Knowledge Map, AI for communication**.
 
-Previously, I led a research project on **3D Channel Knowledge Map Construction** as the primary leader, under the supervision of Associate Professor [Ruoguang Li](https://jszy.hhu.edu.cn/lrg/).
+Previously, I led a research project on **3D Channel Knowledge Map Construction** as the primary leader which is a great honor to be guided by the Associate Professor [Ruoguang Li](https://jszy.hhu.edu.cn/lrg/).
 
 Before that, I worked on **multi-modal human detection in smoke environments** and end-to-end vision fusion systems, achieving efficient feature extraction and real-time target recognition.
 
