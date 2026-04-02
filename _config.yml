@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "head.png"
   name             : "Zhou Dong"
   bio              : "A quiet boy who loves listening to music,favoring Bad Bunny and Taylor Swift"
   location         : "Earth"
