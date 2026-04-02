@@ -25,9 +25,13 @@ If everything goes as expected, I will obtain the qualification for direct admis
 ## Scientific Research Experience & Competition
 
 ### 1.Triplane Diffusion for 3DCKM construction
-- **Project Brief**:现有3DCKM的构建方法多基于计算开销大的3D CNN方法(3D-RadioDiff)以及伪3D的分层方法(CKMDiff)。项目基于UrbanRadio3D数据集，利用Tripane Fitting和Triplane Diffusion对三维数据进行压缩以及加噪与去噪。针对新场景将环境信息作为条件，将扩散模型所得结果送入预训练的MLP即可构建高保真的信道知识地图。
-- **My Main Work**:①在Triplane Fitting阶段采用任务重现与权重更新策略分两阶段联合训练数据集的三平面表示以及共享MLP；②在Triplane Diffusion阶段以环境信息为条件，使用条件概率扩散模型对所得三平面进行加噪与去噪；③消融实验和对比实验。
 
+<img width="320" height="180" alt="Triplane Diffusion frame for 3DCKM Construction)" src="https://github.com/user-attachments/assets/82b41608-7a6f-4e1d-b063-05cac0e96782" />
+
+- **Project Brief**:The existing construction methods of 3DCKM are mostly based on computationally expensive 3D CNN methods (3D-RadioDiff) and pseudo-3D slice methods (CKMDiff). The project is based on the UrbanRadio3D dataset and uses Tripane Fitting and Triplane Diffusion to compress data and then add noise and remove noise from the triplanes data. For new scenes, environmental information is used as a condition, and the results obtained from the diffusion model are sent to the pre-trained MLP to construct a high-fidelity channel knowledge map.
+- **My Main Work**:① In the Triplane Fitting stage, the task replay and Identity-aware Weight Consolidation (IWC) regularizer
+are used to jointly train the Triplane representations and shared MLP of the data set in two stages; ② In the Triplane Diffusion stage, using the environmental information as a condition, the conditional probability diffusion model is employed to add noise and remove noise to the obtained Triplanes; ③ Abandonment experiments and comparison experiments.I'm struggling to complete this idea and hoping for a paper.
+- **Sionna**:I wrote a 3DCKM construction code using sionna.[Click here](https://github.com/HozyChuan/Voxel-CKMDataSet-by-Sionna.git) for the code.
 
 ### 2.Discrimination of human targets in thick smoke environments
 **Competition**：中国大学生服务外包创新创业大赛 💻[Demo Code](https://github.com/XoomitLXH/Smoke-Human-Detection.git)
