@@ -28,7 +28,8 @@ You can find my CV here:[ZHOUDONG's Curriculum Vitae](../assets/CV.docx)
 
 ### 1.Triplane Diffusion for 3DCKM construction
 
-<img width="320" height="180" alt="Triplane Diffusion frame for 3DCKM Construction)" src="https://github.com/user-attachments/assets/82b41608-7a6f-4e1d-b063-05cac0e96782" />
+<img width="320" height="180" alt="Triplane Diffusion frame for 3DCKM Construction" src="https://github.com/user-attachments/assets/5ded3fa7-bec3-4b39-9c12-944b46f96f67" />
+
 
 - **Project Brief**:The existing construction methods of 3DCKM are mostly based on computationally expensive 3D CNN methods (3D-RadioDiff) and pseudo-3D slice methods (CKMDiff). The project is based on the UrbanRadio3D dataset and uses Tripane Fitting and Triplane Diffusion to compress data and then add noise and remove noise from the triplanes data. For new scenes, environmental information is used as a condition, and the results obtained from the diffusion model are sent to the pre-trained MLP to construct a high-fidelity channel knowledge map.
 - **My Main Work**:① In the Triplane Fitting stage, the task replay and Identity-aware Weight Consolidation (IWC) regularizer
