@@ -35,7 +35,8 @@ You can find my CV here:[ZHOUDONG's Curriculum Vitae](../assets/CV.docx)
 - **My Main Work**:① In the Triplane Fitting stage, the task replay and Identity-aware Weight Consolidation (IWC) regularizer
 are used to jointly train the Triplane representations and shared MLP of the data set in two stages; ② In the Triplane Diffusion stage, using the environmental information as a condition, the conditional probability diffusion model is employed to add noise and remove noise to the obtained Triplanes; ③ Abandonment experiments and comparison experiments.I'm struggling to complete this idea and hoping for a paper.
 - **Sionna**:I wrote a 3DCKM construction code using sionna.[Click here](https://github.com/HozyChuan/Voxel-CKMDataSet-by-Sionna.git) for the code.
-- **Results**:<img width="4706" height="5547" alt="three_method_comparison_with_connectors_zh" src="https://github.com/user-attachments/assets/006bbe7f-2bad-48cd-a376-514699549162" />
+- **Results**:<img width="4706" height="5547" alt="three_method_comparison_with_connectors_en" src="https://github.com/user-attachments/assets/d390bdb4-d813-4e9d-a7ee-e4274801487e" />
+
 
 ### 2.Discrimination of human targets in thick smoke environments
 **Competition**：中国大学生服务外包创新创业大赛 💻[Demo Code](https://github.com/XoomitLXH/Smoke-Human-Detection.git)
